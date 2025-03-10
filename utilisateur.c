@@ -77,6 +77,8 @@ void inscription()
 
         printf("Inscription réussie.Vous pouvez maintenant vous connecter.\n\n");
 
+        
+
 }
 
 
