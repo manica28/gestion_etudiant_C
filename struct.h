@@ -1,0 +1,1 @@
+//pour la definition de toutes les structures

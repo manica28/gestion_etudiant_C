@@ -1,0 +1,5 @@
+//fonction principale
+int main()
+{
+    
+}
